@@ -1,1 +1,17 @@
 Commands with screen shots
+
+![Version](https://user-images.githubusercontent.com/93903474/196143868-fd56ae2f-4a47-4130-aed4-b93b8159d3a3.png)
+![buiding docker](https://user-images.githubusercontent.com/93903474/196144286-34316b13-cd9c-42bd-a647-463144b98a8b.png)
+![complete details of a container](https://user-images.githubusercontent.com/93903474/196144301-a9ec757a-9560-4dad-9a3c-c6f1f568ee55.png)
+![docker_images](https://user-images.githubusercontent.com/93903474/196144323-7bc92715-9eae-466d-a3f1-4d10ca1404ef.png)
+![History of all running or stopped](https://user-images.githubusercontent.com/93903474/196144346-11e66d2e-cd28-4c4c-9f43-9507cf633703.png)
+![Pull](https://user-images.githubusercontent.com/93903474/196144498-7516feb3-5a9c-4acc-8302-5da70ddb77d1.png)
+![pulling images](https://user-images.githubusercontent.com/93903474/196144515-a74166b5-22bf-480e-bd33-cec718c189ea.png)
+![pushing_images](https://user-images.githubusercontent.com/93903474/196144528-f927814c-c4f4-42e6-b0b2-9be5d0635687.png)
+![run image](https://user-images.githubusercontent.com/93903474/196144571-050931c1-a950-445e-b451-d70767523b66.png)
+![running 5000 port](https://user-images.githubusercontent.com/93903474/196144594-7e85b5ad-ee8f-49d3-a62d-22d31e600639.png)
+![starting cotainer after stoping](https://user-images.githubusercontent.com/93903474/196144709-534d98e5-919d-49fd-b092-fc3bfdaf9fc5.png)
+![stop container](https://user-images.githubusercontent.com/93903474/196144726-31bcab5a-444a-45fe-996d-d780b0144847.png)
+![To check imge running or not](https://user-images.githubusercontent.com/93903474/196144774-a59096a8-2ae3-44db-a67e-d304d6c4fe10.png)
+![untagging docker image](https://user-images.githubusercontent.com/93903474/196144798-ae7b3eb9-7785-4e00-9f0f-62f1bfc25c0f.png)
+![Hello world](https://user-images.githubusercontent.com/93903474/196144824-20ba9013-bd73-41c1-8fb7-9b369c64eba6.png)
